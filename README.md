@@ -17,7 +17,7 @@ Deep learning based ransomware detection system that identifies ransomware proce
 | 3-Scale CNN | 99.53% | 76 |
 | 5-Scale CNN | 99.59% | 60 |
 
-### Novel Contribution — Early Detection Analysis
+### Early Detection Analysis
 Model detects ransomware with 77.8% accuracy after observing just 20 API calls — well before encryption begins. This quantifies HOW EARLY ransomware can be detected, not just HOW ACCURATELY.
 
 ### Dataset
